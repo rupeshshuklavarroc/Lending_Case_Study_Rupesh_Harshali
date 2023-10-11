@@ -1,52 +1,40 @@
-# Project Name
-> Outline a brief description of your project.
+**Problem Statement**  
+This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+
+The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
+
+**Business Understanding**  
+A consumer finance company specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+
+- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to  a financial loss for the company
+
+Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as **'charged-off' are the 'defaulters.'**
+
+So in this case study, we"ll understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of **"default"**.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+**Step 1**: Data Cleaning
 
-<!-- You can include any other section that is pertinent to your problem -->
+**Step 2**: Univariate Analysis
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+**Step 3**: Segemented Univariate Analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+**Step 4**: Bivaraiate/Multivariate Analysis
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+**Step 5**: Results    
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+**Benefits to the Company**
+- Reduced loss by identifying applicants likely to default
+- Improved Risk Assessment
+- Adjusted loans, interest rates based on risk factors
+- Informed decision for loan approval
+- Improved loan lending strategy
+- Industry leadership and competitive advantage
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+ 
